@@ -57,9 +57,10 @@ string[] enumSabitleri = typeof(Departmanlar).GetEnumNames();
 foreach (string item in enumSabitleri){
     // hem enum sabitleri hemde bunların arkada tuttukları değerleri ekrana yazdıralım
    Departmanlar seciliDepartman= (Departmanlar)Enum.Parse(typeof(Departmanlar),item);
-   Enum.Parse
+  
    short departmanId= (short)seciliDepartman;
    Console.WriteLine("Departman değeri : {0} Departman Adı : {1}",departmanId,item);
 }
+
 
 

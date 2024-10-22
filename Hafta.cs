@@ -46,6 +46,23 @@ public enum Departmanlar:short
 
     İnsanKaynakları=25
 }
+// Aşağıdaki örnekte, bir sabite bir değer verilmiştir.
+
+// aşağıdaki sabitlerin aldıkları değerler : 
+/*
+Euro : 0
+Dolar : 1
+Frank : 10
+Sar : 11
+Ruble : 12
+*/
+public enum DovizTip{
+    Euro,
+    Dolar,
+    Frank=10,
+    Sar,
+    Ruble,
+}
 
 // Enum sabitlerine tam sayı tiplerinden başka bir tip sabit verilemez!!!
 /*

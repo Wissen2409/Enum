@@ -12,3 +12,4 @@
 /Users/emrahelis/Enum/obj/Debug/net8.0/Enum.pdb
 /Users/emrahelis/Enum/obj/Debug/net8.0/Enum.genruntimeconfig.cache
 /Users/emrahelis/Enum/obj/Debug/net8.0/ref/Enum.dll
+/Users/emrahelis/Enum/obj/Debug/net8.0/Enum.sourcelink.json
